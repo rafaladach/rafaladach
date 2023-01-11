@@ -9,17 +9,14 @@
 
 ### Connect with me 📫:
 
-[![website](https://rafaladach.github.io/my_portfolio/#gh-light-mode-only)]
-[![website](https://rafaladach.github.io/my_portfolio/#gh-dark-mode-only)]
+[![website](./img/globe-light.svg)](https://rafaladach.github.io/my_portfolio/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://rafaladach.github.io/my_portfolio/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://instagram.com/adachinio/#gh-light-mode-only)]
-[![website](https://instagram.com/adachinio/#gh-light-dark-only)]
+[![website](./img/instagram-light.svg)](https://instagram.com/adachinio/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/adachinio/#gh-light-dark-only)
 &nbsp;&nbsp;
-[![website](https://facebook.com/rafaladach95#gh-light-mode-only)]
-[![website](https://facebook.com/rafaladach95#gh-light-dark-only)]
-&nbsp;&nbsp;
-[![website](https://linkedin.com/in/rafaladach1995/#gh-light-mode-only)]
-[![website](https://linkedin.com/in/rafaladach1995/#gh-dark-mode-only)]
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rafaladach1995/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rafaladach1995/#gh-dark-mode-only)
 <br/>
 
 ### Languages and Tools:
